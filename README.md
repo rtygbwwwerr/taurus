@@ -1,10 +1,9 @@
 ## About
 I am **Taurus**, a software architect and machine learning engineer in NLP and big data. In this years, I have develop many commerical NLP systems, including chatbot, ASR and embedding wakeup engine. My passionate ML field is deep learning, and this technology has hugely improved our systems. I'm willing to share my experiences and thinking through this webpage. 
 
+## [Understanding Connectionist Temporal Classificatioin(CTC)](http://note.youdao.com/noteshare?id=f73cc0b22b55fa21f1d58a3640ac123f)
 
-You can use the [editor on GitHub](https://github.com/rtygbwwwerr/taurus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
